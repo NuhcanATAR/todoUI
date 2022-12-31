@@ -1,5 +1,5 @@
 # todoUI
-Flutter To Do Uygulaması Ön Arayüz Çalışması (Geliştirme Aşamasında Daha)
+Flutter To Do Uygulaması Ön Arayüz Çalışması 
 
 ![S21019-09360243](https://user-images.githubusercontent.com/77950761/196615779-af3765f6-604d-4d5b-9305-92cf9a3b49f2.jpg)
 ![S21019-09360919](https://user-images.githubusercontent.com/77950761/196615790-7f817670-8c8d-4bb9-93fe-659ac928df70.jpg)
